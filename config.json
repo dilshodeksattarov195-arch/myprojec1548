@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "routerfync",
+        "uuid": 8241552,
+        "checksum": "gzib72"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": true,
+        "mode": "production"
+    }
+}
